@@ -1,5 +1,5 @@
 ###Software Design LifeCycle (SDLC) Methodologies
-##SDLC - Agile
+#####SDLC - Agile
 #One of the simplest and effective process today’s software solutions. It contains continual planning, learning, 
 #team collaboration, development. The important thing with this methodology is a team can manage a project by breaking 
 #it up into several stages and iteration at every stage.
