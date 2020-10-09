@@ -14,7 +14,7 @@ This repository contains 3 SDLC methodologies explanation.
 * Save it and quit. 
 
 ##### You can see the status and changes if it happened
-    $gşt status
+    $git status
 ##### Make sure add it and making commit
     $git add .
     %git commit -m "methodologies have been added to the file"
