@@ -4,6 +4,8 @@
 #team collaboration, development. The important thing with this methodology is a team can manage a project by breaking 
 #it up into several stages and iteration at every stage.
 
+<img src="https://miro.medium.com/max/470/0*fHGD69p_F7A1-f_C.png" alt="Trulli" width="500" height="333">
+
 #This methodology is effective because it clarifies the customer’s expectations on the project and the project team. 
 #The Agile methodology begins client describing how the end product will be used and what problem it will solve. 
 #We can say briefly, The Agile builds products that customers want will with using short cycles of work that allow for rapid production and constant revision if necessary.
